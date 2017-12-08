@@ -1,0 +1,9 @@
+;LEVEL 1
+CST_bleu,CST_bleu,CST_bleu,CST_bleu,CST_bleu
+CST_bleu,CST_rouge,CST_bleu,CST_bleu,CST_bleu
+CST_bleu,CST_bleu,CST_rouge,CST_bleu,CST_bleu
+CST_bleu,CST_bleu,CST_bleu,CST_rouge,CST_bleu
+CST_bleu,CST_bleu,CST_bleu,CST_bleu,CST_rouge
+{1,1,2,2,3,3,4,4}
+0
+00:00

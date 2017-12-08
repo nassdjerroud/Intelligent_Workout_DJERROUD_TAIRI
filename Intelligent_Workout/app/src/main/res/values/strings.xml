@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intelligent_Workout</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnRes">Resume</string>
+    <string name="btnHS">High Score</string>
+    <string name="btnReturn">Return</string>
+    <string name="textView1">Chose the level :</string>
+    <string name="saved_level">level</string>
+    <integer name="saved_level_default">1</integer>
+</resources>
